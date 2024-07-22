@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'MyCustomFont';
+  src: url('../fonts/DouyinSansBold.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'MyCustomFont', sans-serif;
+}
